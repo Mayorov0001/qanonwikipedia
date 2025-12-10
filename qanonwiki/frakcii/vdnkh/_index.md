@@ -22,5 +22,3 @@ order: 1
 </note>
 
 <view defs="hierarchy=none" display="List"/>
-
-

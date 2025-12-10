@@ -1,6 +1,6 @@
 ---
-order: 2.8
-title: «ГПР»
+order: 12
+title: «Гильдия Самсара»
 ---
 
 <note type="info">
